@@ -1,0 +1,224 @@
+{
+  "1": {
+    "Time": "0 2.258540391921997",
+    "Type": "Skip"
+  },
+  "2": {
+    "Unit": "Tempest Pirate (Navigator)",
+    "Type": "Render",
+    "Time": "0 4.962266206741333",
+    "Pos": "-204.05162048339844, 289.6169128417969, -308.5810852050781"
+  },
+  "3": {
+    "Type": "ShinobiGodMode",
+    "Time": "0 5.6847617626190186",
+    "Action": "ConfirmPlacement"
+  },
+  "4": {
+    "Type": "UpgradeMultiple",
+    "Time": "0 5.6601550579071045",
+    "Upgr": 6,
+    "Prio": 6,
+    "Pos": "-204.05162048339844, 289.6169128417969, -308.5810852050781"
+  },
+  "5": {
+    "Type": "ShinobiGodMode",
+    "Time": "0 5.7641549110412598",
+    "Action": "ConfirmPlacement"
+  },
+  "6": {
+    "Type": "ShinobiGodMode",
+    "Time": "0 5.8189988136291504",
+    "Action": "ConfirmPlacement"
+  },
+  "7": {
+    "Type": "ShinobiGodMode",
+    "Time": "0 5.8668346405029297",
+    "Action": "ConfirmPlacement"
+  },
+  "8": {
+    "Type": "ShinobiGodMode",
+    "Time": "0 5.9079129695892334",
+    "Action": "ConfirmPlacement"
+  },
+  "9": {
+    "Unit": "Strongest Shinobi (Martial)",
+    "Type": "Render",
+    "Time": "1 0.6242368221282959",
+    "Pos": "-209.59068298339844, 289.5259704589844, -299.81939697265625"
+  },
+  "10": {
+    "Unit": "Devoted Demon (Obsessed)",
+    "Type": "Render",
+    "Time": "1 3.532058000564575",
+    "Pos": "-208.4644317626953, 289.5259704589844, -302.8658142089844"
+  },
+  "11": {
+    "Unit": "Fruit Eater (He Wins)",
+    "Type": "Render",
+    "Time": "1 6.080368757247925",
+    "Pos": "-209.2112274169922, 289.5259704589844, -298.10467529296875"
+  },
+  "12": {
+    "Unit": "Strongest Shinobi (Martial)",
+    "Type": "Render",
+    "Time": "1 9.547175884246826",
+    "Pos": "-207.08721923828125, 289.5259704589844, -300.9842224121094"
+  },
+  "13": {
+    "Unit": "Strongest Shinobi (Martial)",
+    "Type": "Render",
+    "Time": "1 12.14192819595337",
+    "Pos": "-206.87428283691406, 289.5259704589844, -299.1505126953125"
+  },
+  "14": {
+    "Unit": "Devoted Demon (Obsessed)",
+    "Type": "Render",
+    "Time": "2 0.29836511611938477",
+    "Pos": "-205.99563598632812, 289.5259704589844, -297.2019958496094"
+  },
+  "15": {
+    "Unit": "Devoted Demon (Obsessed)",
+    "Type": "Render",
+    "Time": "2 2.745793581008911",
+    "Pos": "-205.02444458007812, 289.6169128417969, -301.4315490722656"
+  },
+  "16": {
+    "Unit": "Fruit Eater (He Wins)",
+    "Type": "Render",
+    "Time": "2 4.380572319030762",
+    "Pos": "-208.53506469726562, 289.5259704589844, -294.89678955078125"
+  },
+  "17": {
+    "Unit": "Fruit Eater (He Wins)",
+    "Type": "Render",
+    "Time": "2 5.825894117355347",
+    "Pos": "-205.79151916503906, 289.6169128417969, -303.6148376464844"
+  },
+  "18": {
+    "Unit": "Toad Shinobi (Ribbit)",
+    "Type": "Render",
+    "Time": "2 8.003723859786987",
+    "Pos": "-207.1207733154297, 289.6169128417969, -306.1494445800781"
+  },
+  "19": {
+    "Unit": "Toad Shinobi (Ribbit)",
+    "Type": "Render",
+    "Time": "2 9.775481224060059",
+    "Pos": "-208.35665893554688, 289.6169128417969, -308.0597229003906"
+  },
+  "20": {
+    "Unit": "Toad Shinobi (Ribbit)",
+    "Type": "Render",
+    "Time": "3 0.8411891460418701",
+    "Pos": "-204.948974609375, 289.5259704589844, -295.1970520019531"
+  },
+  "21": {
+    "Type": "Upgrade",
+    "Time": "0 6.634037017822266",
+    "Pos": "-209.59068298339844, 289.5259704589844, -299.81939697265625"
+  },
+  "22": {
+    "Type": "Upgrade",
+    "Time": "0 6.634037017822266",
+    "Pos": "-209.59068298339844, 289.5259704589844, -299.81939697265625"
+  },
+  "23": {
+    "Prio": "Last",
+    "Type": "ChangePriority",
+    "Time": "1 2.799373149871826",
+    "Pos": "-209.59068298339844, 289.5259704589844, -299.81939697265625"
+  },
+  "24": {
+    "Prio": "Last",
+    "Type": "ChangePriority",
+    "Time": "1 2.799373149871826",
+    "Pos": "-208.4644317626953, 289.5259704589844, -302.8658142089844"
+  },
+  "25": {
+    "Type": "Upgrade",
+    "Time": "0 6.634037017822266",
+    "Pos": "-207.08721923828125, 289.5259704589844, -300.9842224121094"
+  },
+  "26": {
+    "Type": "Upgrade",
+    "Time": "0 6.634037017822266",
+    "Pos": "-207.08721923828125, 289.5259704589844, -300.9842224121094"
+  },
+  "27": {
+    "Type": "Upgrade",
+    "Time": "0 6.634037017822266",
+    "Pos": "-206.87428283691406, 289.5259704589844, -299.1505126953125"
+  },
+  "28": {
+    "Type": "Upgrade",
+    "Time": "0 6.634037017822266",
+    "Pos": "-206.87428283691406, 289.5259704589844, -299.1505126953125"
+  },
+  "29": {
+    "Action": "ShopEvent",
+    "Type": "ShinobiGodMode",
+    "Time": "4 13.65906057357788",
+    "Args": [
+      "Purchase",
+      "SkipWaves5"
+    ]
+  },
+  "30": {
+    "Type": "ShinobiGodMode",
+    "Time": "9 1.0",
+    "Action": "ConfirmPlacement"
+  },
+  "31": {
+    "Action": "ShopEvent",
+    "Type": "ShinobiGodMode",
+    "Time": "9 2.041760444641113",
+    "Args": [
+      "Purchase",
+      "SkipWaves5"
+    ]
+  },
+  "32": {
+    "Type": "ShinobiGodMode",
+    "Time": "14 1.0",
+    "Action": "ConfirmPlacement"
+  },
+  "33": {
+    "Action": "ShopEvent",
+    "Type": "ShinobiGodMode",
+    "Time": "15 1",
+    "Args": [
+      "Purchase",
+      "SkipWaves5"
+    ]
+  },
+  "34": {
+    "Type": "ShinobiGodMode",
+    "Time": "15 0.5898284912109375",
+    "Action": "ConfirmPlacement"
+  },
+  "35": {
+    "Type": "ShinobiGodMode",
+    "Time": "15 0.5673916339874268",
+    "Action": "ConfirmPlacement"
+  },
+  "36": {
+    "Type": "ShinobiGodMode",
+    "Time": "15 0.7428085803985596",
+    "Action": "ConfirmPlacement"
+  },
+  "37": {
+    "Type": "ShinobiGodMode",
+    "Time": "15 0.8179090023040771",
+    "Action": "ConfirmPlacement"
+  },
+  "38": {
+    "Action": "ShopEvent",
+    "Type": "ShinobiGodMode",
+    "Time": "15 0.9813368320465088",
+    "Args": [
+      "Purchase",
+      "SkipWaves5"
+    ]
+  }
+}
