@@ -1,0 +1,196 @@
+{
+  "Game Speed": 1.5,
+  "1": {
+    "Type": "PlaceTower",
+    "Time": "1 84.131187915802",
+    "Unit": "Fastcart",
+    "Pos": "-63.77666091918945, 9.968021392822266, 44.5368537902832, 1, 0, 0, 0, 1, 0, 0, 0, 1"
+  },
+  "2": {
+    "Type": "PlaceTower",
+    "Time": "1 85.83729290962219",
+    "Unit": "Bulmo",
+    "Pos": "-55.5406494140625, 9.968021392822266, 40.71239471435547, 1, 0, 0, 0, 1, 0, 0, 0, 1"
+  },
+  "3": {
+    "Type": "PlaceTower",
+    "Time": "2 94.70847392082214",
+    "Unit": "The Almighty King",
+    "Pos": "-73.50321960449219, 9.968021392822266, 27.15552520751953, 1, 0, 0, 0, 1, 0, 0, 0, 1"
+  },
+  "4": {
+    "Type": "Upgrade",
+    "Time": "2 96.71792888641357",
+    "Pos": "Fastcart - 1"
+  },
+  "5": {
+    "Type": "PlaceTower",
+    "Time": "3 104.58006978034973",
+    "Unit": "Big Brother ( Venegance )",
+    "Pos": "-68.30697631835938, 9.968021392822266, 31.191463470458984, 1, 0, 0, 0, 1, 0, 0, 0, 1"
+  },
+  "6": {
+    "Type": "PlaceTower",
+    "Time": "3 107.60456085205078",
+    "Unit": "Big Brother ( Venegance )",
+    "Pos": "-83.80374908447266, 9.968021392822266, 34.22377014160156, 1, 0, 0, 0, 1, 0, 0, 0, 1"
+  },
+  "7": {
+    "Type": "PlaceTower",
+    "Time": "3 109.19160580635071",
+    "Unit": "Big Brother ( Venegance )",
+    "Pos": "-65.4516830444336, 9.968021392822266, 33.0597038269043, 1, 0, 0, 0, 1, 0, 0, 0, 1"
+  },
+  "8": {
+    "Type": "Upgrade",
+    "Time": "4 116.83822679519653",
+    "Pos": "Fastcart - 1"
+  },
+  "9": {
+    "Type": "Upgrade",
+    "Time": "4 119.48814797401428",
+    "Pos": "The Almighty King - 1"
+  },
+  "10": {
+    "Type": "Upgrade",
+    "Time": "4 123.63977694511414",
+    "Pos": "Bulmo - 1"
+  },
+  "11": {
+    "Type": "Upgrade",
+    "Time": "4 123.91027498245239",
+    "Pos": "Bulmo - 1"
+  },
+  "12": {
+    "Type": "Upgrade",
+    "Time": "5 131.89285397529602",
+    "Pos": "Bulmo - 1"
+  },
+  "13": {
+    "Type": "Upgrade",
+    "Time": "5 132.1917769908905",
+    "Pos": "Bulmo - 1"
+  },
+  "14": {
+    "Type": "Upgrade",
+    "Time": "6 141.83991980552673",
+    "Pos": "Bulmo - 1"
+  },
+  "15": {
+    "Type": "Upgrade",
+    "Time": "6 142.07788276672363",
+    "Pos": "Bulmo - 1"
+  },
+  "16": {
+    "Type": "Upgrade",
+    "Time": "6 142.36133790016174",
+    "Pos": "Bulmo - 1"
+  },
+  "17": {
+    "Type": "Upgrade",
+    "Time": "7 155.7379698753357",
+    "Pos": "The Almighty King - 1"
+  },
+  "18": {
+    "Type": "Upgrade",
+    "Time": "7 155.9667627811432",
+    "Pos": "The Almighty King - 1"
+  },
+  "19": {
+    "Type": "PlaceTower",
+    "Time": "8 168.03467893600464",
+    "Unit": "Merciless God",
+    "Pos": "-71.08198547363281, 9.968021392822266, 32.728614807128906, 1, 0, 0, 0, 1, 0, 0, 0, 1"
+  },
+  "20": {
+    "Type": "PlaceTower",
+    "Time": "8 176.82054686546326",
+    "Unit": "Joyful Captain",
+    "Pos": "-66.51947021484375, 9.968023300170898, 27.996538162231445, 1, 0, 0, 0, 1, 0, 0, 0, 1"
+  },
+  "21": {
+    "Type": "Upgrade",
+    "Time": "9 181.1036319732666",
+    "Pos": "The Almighty King - 1"
+  },
+  "22": {
+    "Type": "Upgrade",
+    "Time": "9 181.3351228237152",
+    "Pos": "The Almighty King - 1"
+  },
+  "23": {
+    "Type": "Upgrade",
+    "Time": "9 181.59942483901978",
+    "Pos": "The Almighty King - 1"
+  },
+  "24": {
+    "Type": "Useability",
+    "Time": "9 183.87647795677185",
+    "Pos": "The Almighty King - 1"
+  },
+  "25": {
+    "Type": "Universalpathupgrade",
+    "Time": "10 198.12889981269836",
+    "Pos": "Joyful Captain - 1"
+  },
+  "26": {
+    "Type": "Universalpathupgrade",
+    "Time": "10 198.26530981063843",
+    "Pos": "Joyful Captain - 1"
+  },
+  "27": {
+    "Type": "Universalpathupgrade",
+    "Time": "10 201.18679094314575",
+    "Pos": "Joyful Captain - 1"
+  },
+  "28": {
+    "Type": "Universalpathupgrade",
+    "Time": "11 204.97877287864685",
+    "Pos": "Joyful Captain - 1"
+  },
+  "29": {
+    "Type": "Universalpathupgrade",
+    "Time": "11 206.8600947856903",
+    "Pos": "Joyful Captain - 1"
+  },
+  "30": {
+    "Type": "Universalpathupgrade",
+    "Time": "11 207.9175419807434",
+    "Pos": "Joyful Captain - 1"
+  },
+  "31": {
+    "Type": "Universalpathupgrade",
+    "Time": "12 222.74631881713867",
+    "Pos": "Joyful Captain - 1"
+  },
+  "32": {
+    "Type": "Universalpathupgrade",
+    "Time": "13 240.1760218143463",
+    "Pos": "Merciless God - 1"
+  },
+  "33": {
+    "Type": "Universalpathupgrade",
+    "Time": "13 240.56642985343933",
+    "Pos": "Merciless God - 1"
+  },
+  "34": {
+    "Type": "Universalpathupgrade",
+    "Time": "13 241.7152919769287",
+    "Pos": "Merciless God - 1"
+  },
+  "35": {
+    "Type": "Universalpathupgrade",
+    "Time": "14 243.29621291160583",
+    "Pos": "Merciless God - 1"
+  },
+  "36": {
+    "Type": "Universalpathupgrade",
+    "Time": "14 244.50572180747986",
+    "Pos": "Merciless God - 1"
+  },
+  "37": {
+    "Type": "Useability",
+    "Time": "16 275.15099596977234",
+    "Pos": "Joyful Captain - 1"
+  }
+}
