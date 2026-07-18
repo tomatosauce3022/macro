@@ -1,0 +1,164 @@
+{
+    "1": {
+        "Type": "PlaceUnit",
+        "Time": "0 36.241570711135864",
+        "Phantom": true,
+        "Unit": "Stone Alchemist",
+        "Pos": "3053.57544, 826.137329, 4124.95898, 1, 0, 0, 0, 1, 0, 0, 0, 1"
+    },
+    "2": {
+        "Type": "PlaceUnit",
+        "Time": "0 36.7392053604126",
+        "Phantom": true,
+        "Unit": "Stone Alchemist",
+        "Pos": "3048.30176, 826.137329, 4123.46094, 1, 0, 0, 0, 1, 0, 0, 0, 1"
+    },
+    "3": {
+        "Type": "PlaceUnit",
+        "Time": "0 37.56493854522705",
+        "Phantom": true,
+        "Unit": "Stone Alchemist",
+        "Pos": "3044.20337, 826.137329, 4122.90771, 1, 0, 0, 0, 1, 0, 0, 0, 1"
+    },
+    "4": {
+        "Type": "PlaceUnit",
+        "Time": "0 38.80603861808777",
+        "Phantom": true,
+        "Unit": "Ramen Guy",
+        "Pos": "3049.8374, 826.137329, 4118.43555, 1, 0, 0, 0, 1, 0, 0, 0, 1"
+    },
+    "5": { "Type": "UpgradeUnit", "Time": "3 1.290916919708252", "Pos": "Stone Alchemist - 1" },
+    "6": { "Type": "UpgradeUnit", "Time": "3 1.8560113906860352", "Pos": "Stone Alchemist - 2" },
+    "7": { "Type": "UpgradeUnit", "Time": "3 2.538694143295288", "Pos": "Stone Alchemist - 3" },
+    "8": { "Type": "UpgradeUnit", "Time": "4 0.6591465473175049", "Pos": "Stone Alchemist - 1" },
+    "9": { "Type": "UpgradeUnit", "Time": "4 1.145275592803955", "Pos": "Stone Alchemist - 2" },
+    "10": {
+        "Unit": "Elf Mage (Unleashed)",
+        "Type": "PlaceUnit",
+        "Time": "4 7.086494445800781",
+        "Pos": "3192.91284, 826.137329, 4149.8335, 1, 0, 0, 0, 1, 0, 0, 0, 1"
+    },
+    "11": { "Type": "UpgradeUnit", "Time": "5 0.7578625679016113", "Pos": "Elf Mage (Unleashed) - 1" },
+    "12": { "Type": "UpgradeUnit", "Time": "5 1.4144554138183594", "Pos": "Elf Mage (Unleashed) - 1" },
+    "13": { "Type": "UpgradeUnit", "Time": "5 2.920813798904419", "Pos": "Stone Alchemist - 3" },
+    "14": {
+        "Unit": "Cursed Student (True Love)",
+        "Type": "PlaceUnit",
+        "Time": "5 14.663886785507202",
+        "Pos": "3193.41968, 826.137329, 4153.04883, 1, 0, 0, 0, 1, 0, 0, 0, 1"
+    },
+    "15": { "Type": "UpgradeUnit", "Time": "6 5.127645969390869", "Pos": "Elf Mage (Unleashed) - 1" },
+    "16": { "Type": "UpgradeUnit", "Time": "6 6.08649468421936", "Pos": "Stone Alchemist - 1" },
+    "17": { "Type": "UpgradeUnit", "Time": "6 6.744295358657837", "Pos": "Stone Alchemist - 2" },
+    "18": { "Type": "UpgradeUnit", "Time": "7 0", "Pos": "Stone Alchemist - 3" },
+    "19": { "Type": "UpgradeUnit", "Time": "7 1.662740707397461", "Pos": "Ramen Guy - 1" },
+    "20": { "Type": "UpgradeUnit", "Time": "7 1.8645708560943604", "Pos": "Ramen Guy - 1" },
+    "21": { "Type": "UpgradeUnit", "Time": "7 1.911839485168457", "Pos": "Ramen Guy - 1" },
+    "22": { "Type": "UpgradeUnit", "Time": "7 2.0667502880096436", "Pos": "Ramen Guy - 1" },
+    "23": { "Type": "UpgradeUnit", "Time": "8 1.0042016506195068", "Pos": "Ramen Guy - 1" },
+    "24": { "Type": "UpgradeUnit", "Time": "8 1.3091731071472168", "Pos": "Ramen Guy - 1" },
+    "25": { "Type": "UpgradeUnit", "Time": "8 1.36722731590271", "Pos": "Ramen Guy - 1" },
+    "26": { "Type": "UpgradeUnit", "Time": "9 2.7551705837249756", "Pos": "Ramen Guy - 1" },
+    "27": { "Type": "ToggleAutoUpgrade", "Time": "9 4.304998397827148", "Pos": "Elf Mage (Unleashed) - 1" },
+    "28": {
+        "Unit": "Elf Mage (Unleashed)",
+        "Type": "PlaceUnit",
+        "Time": "10 1.1370599269866943",
+        "Pos": "3059.87915, 826.137329, 4089.98462, 1, 0, 0, 0, 1, 0, 0, 0, 1"
+    },
+    "29": {
+        "Unit": "Elf Mage (Unleashed)",
+        "Type": "PlaceUnit",
+        "Time": "10 2.9817044734954834",
+        "Pos": "3056.97363, 826.137329, 4089.26758, 1, 0, 0, 0, 1, 0, 0, 0, 1"
+    },
+    "30": {
+        "Unit": "Cursed Student (True Love)",
+        "Type": "PlaceUnit",
+        "Time": "10 6.026583671569824",
+        "Pos": "3060.35498, 826.137329, 4087.55151, 1, 0, 0, 0, 1, 0, 0, 0, 1"
+    },
+    "31": {
+        "Unit": "Forbidden Teacher",
+        "Type": "PlaceUnit",
+        "Time": "10 10.089338779449463",
+        "Pos": "3063.92529, 826.137329, 4090.43311, 1, 0, 0, 0, 1, 0, 0, 0, 1"
+    },
+    "32": { "Type": "ToggleAutoUpgrade", "Time": "10 14.172632455825806", "Pos": "Elf Mage (Unleashed) - 3" },
+    "33": { "Type": "ToggleAutoUpgrade", "Time": "11 11.115482091903687", "Pos": "Elf Mage (Unleashed) - 2" },
+    "34": { "Type": "UpgradeUnit", "Time": "13 1.6467485427856445", "Pos": "Forbidden Teacher - 1" },
+    "35": { "Type": "UpgradeUnit", "Time": "13 1.7049169540405273", "Pos": "Forbidden Teacher - 1" },
+    "36": { "Type": "UpgradeUnit", "Time": "13 1.9940738677978516", "Pos": "Forbidden Teacher - 1" },
+    "37": { "Type": "UpgradeUnit", "Time": "13 2.337782859802246", "Pos": "Forbidden Teacher - 1" },
+    "38": { "Type": "UpgradeUnit", "Time": "13 2.5028939247131348", "Pos": "Forbidden Teacher - 1" },
+    "39": { "Type": "UpgradeUnit", "Time": "13 2.5785679817199707", "Pos": "Forbidden Teacher - 1" },
+    "40": { "Type": "UpgradeUnit", "Time": "13 14.901156425476074", "Pos": "Cursed Student (True Love) - 2" },
+    "41": { "Type": "UpgradeUnit", "Time": "13 14.942533016204834", "Pos": "Cursed Student (True Love) - 2" },
+    "42": { "Type": "UpgradeUnit", "Time": "13 15.12656569480896", "Pos": "Cursed Student (True Love) - 2" },
+    "43": { "Type": "UpgradeUnit", "Time": "13 15.3492112159729", "Pos": "Cursed Student (True Love) - 2" },
+    "44": { "Type": "UpgradeUnit", "Time": "13 15.611409664154053", "Pos": "Cursed Student (True Love) - 2" },
+    "45": { "Type": "UpgradeUnit", "Time": "13 15.727307796478271", "Pos": "Cursed Student (True Love) - 2" },
+    "46": { "Type": "UpgradeUnit", "Time": "14 0.5821082592010498", "Pos": "Cursed Student (True Love) - 2" },
+    "47": { "Type": "UpgradeUnit", "Time": "14 0.7285017967224121", "Pos": "Cursed Student (True Love) - 2" },
+    "48": { "Type": "UpgradeUnit", "Time": "14 0.79392409324646", "Pos": "Cursed Student (True Love) - 2" },
+    "49": {
+        "Unit": "Salmon Sorcerer",
+        "Type": "PlaceUnit",
+        "Time": "15 6.567530632019043",
+        "Pos": "3065.45776, 826.137329, 4087.95386, 1, 0, 0, 0, 1, 0, 0, 0, 1"
+    },
+    "50": { "Pos": "Salmon Sorcerer - 1", "Type": "UpgradeUnit", "Time": "15 9.32691764831543", "Amount": 7 },
+    "51": { "Type": "SellUnit", "Time": "15 13.139419317245483", "Pos": "Ramen Guy - 1" },
+    "52": { "Type": "SellUnit", "Time": "15 15.125074863433838", "Pos": "Stone Alchemist - 1" },
+    "53": { "Type": "SellUnit", "Time": "15 16.181529760360718", "Pos": "Stone Alchemist - 2" },
+    "54": { "Type": "SellUnit", "Time": "15 17.309875965118408", "Pos": "Stone Alchemist - 3" },
+    "55": { "Type": "ChangePriority", "Prio": "Last", "Time": "15 21.037517309188843", "Pos": "Forbidden Teacher - 1" },
+    "56": {
+        "Type": "ChangePriority",
+        "Prio": "Last",
+        "Time": "15 22.496082544326782",
+        "Pos": "Cursed Student (True Love) - 2"
+    },
+    "57": {
+        "Type": "ChangePriority",
+        "Prio": "Last",
+        "Time": "15 24.04987072944641",
+        "Pos": "Elf Mage (Unleashed) - 3"
+    },
+    "58": {
+        "Type": "ChangePriority",
+        "Prio": "Last",
+        "Time": "15 27.57438349723816",
+        "Pos": "Salmon Sorcerer - 1"
+    },
+    "59": { "Type": "SellUnit", "Time": "15 111.24158930778503", "Pos": "Cursed Student (True Love) - 2" },
+    "60": { "Type": "SellUnit", "Time": "15 112.18013787269592", "Pos": "Elf Mage (Unleashed) - 2" },
+    "61": { "Type": "SellUnit", "Time": "15 113.05885076522827", "Pos": "Elf Mage (Unleashed) - 3" },
+    "62": { "Type": "SellUnit", "Time": "15 113.81902503967285", "Pos": "Forbidden Teacher - 1" },
+    "63": { "Type": "SellUnit", "Time": "15 114.62286114692688", "Pos": "Salmon Sorcerer - 1" },
+    "64": {
+        "Unit": "Elf Mage (Unleashed)",
+        "Type": "PlaceUnit",
+        "Time": "15 119.20335507392883",
+        "Pos": "3179.17383, 826.137329, 4148.65869, 1, 0, 0, 0, 1, 0, 0, 0, 1"
+    },
+    "65": { "Pos": "Elf Mage (Unleashed) - 4", "Type": "UpgradeUnit", "Time": "15 121.32388687133789", "Amount": 8 },
+    "66": {
+        "Unit": "Elf Mage (Unleashed)",
+        "Type": "PlaceUnit",
+        "Time": "15 124.36823439598083",
+        "Pos": "3153.61914, 826.137329, 4144.44189, 1, 0, 0, 0, 1, 0, 0, 0, 1"
+    },
+    "67": { "Type": "UpgradeUnit", "Time": "15 125.82752442359924", "Pos": "Elf Mage (Unleashed) - 5" },
+    "68": { "Type": "UpgradeUnit", "Time": "15 126.04862856864929", "Pos": "Elf Mage (Unleashed) - 5" },
+    "69": { "Type": "UpgradeUnit", "Time": "15 126.28024435043335", "Pos": "Elf Mage (Unleashed) - 5" },
+    "70": { "Type": "UpgradeUnit", "Time": "15 126.47951745986938", "Pos": "Elf Mage (Unleashed) - 5" },
+    "71": { "Type": "UpgradeUnit", "Time": "15 126.5247974395752", "Pos": "Elf Mage (Unleashed) - 5" },
+    "72": {
+        "Unit": "Cursed Student (True Love)",
+        "Type": "PlaceUnit",
+        "Time": "15 128.96908855438232",
+        "Pos": "3155.45068, 826.137329, 4148.24365, 1, 0, 0, 0, 1, 0, 0, 0, 1"
+    },
+    "73": { "Type": "UpgradeUnit", "Time": "15 140.13144516944885", "Pos": "Cursed Student (True Love) - 3" }
+}
