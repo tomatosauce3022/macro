@@ -1,0 +1,122 @@
+{
+  "1": {
+    "Type": "PlaceUnit",
+    "Time": "0 33.439011573791504",
+    "Phantom": true,
+    "Unit": "Stone Alchemist",
+    "Pos": "2965.57349, 1961.78015, 2890.79688, 1, 0, 0, 0, 1, 0, 0, 0, 1"
+  },
+  "2": {
+    "Type": "PlaceUnit",
+    "Time": "0 44.07395696640015",
+    "Phantom": true,
+    "Unit": "Cursed Immortal (Black Sun)",
+    "Pos": "2969.53125, 1961.78064, 2878.96167, 1, 0, 0, 0, 1, 0, 0, 0, 1"
+  },
+  "3": {
+    "Type": "PlaceUnit",
+    "Time": "1 0.7428333759307861",
+    "Phantom": true,
+    "Unit": "Elf Mage (Unleashed)",
+    "Pos": "2966.73218, 1961.78015, 2884.46411, 1, 0, 0, 0, 1, 0, 0, 0, 1"
+  },
+  "4": {
+    "Type": "PlaceUnit",
+    "Time": "1 3.3050429821014404",
+    "Phantom": true,
+    "Unit": "Stone Alchemist",
+    "Pos": "2968.95337, 1961.78064, 2874.06348, 1, 0, 0, 0, 1, 0, 0, 0, 1"
+  },
+  "5": {
+    "Type": "PlaceUnit",
+    "Time": "1 4.14015793800354",
+    "Phantom": true,
+    "Unit": "Stone Alchemist",
+    "Pos": "2969.04468, 1961.78064, 2870.75806, 1, 0, 0, 0, 1, 0, 0, 0, 1"
+  },
+  "6": {
+    "Type": "PlaceUnit",
+    "Time": "1 6.176242351531982",
+    "Phantom": true,
+    "Unit": "Puppet (Telekinetic)",
+    "Pos": "2971.77563, 1961.78064, 2881.52148, 1, 0, 0, 0, 1, 0, 0, 0, 1"
+  },
+  "7": {
+    "Type": "UpgradeUnit",
+    "Time": "4 2.123671054840088",
+    "Pos": "Stone Alchemist - 1",
+    "Amount": 2
+  },
+  "8": {
+    "Type": "UpgradeUnit",
+    "Time": "5 0.7012615203857422",
+    "Pos": "Cursed Immortal (Black Sun) - 1",
+    "Amount": 2
+  },
+  "9": {
+    "Type": "UpgradeUnit",
+    "Time": "5 0.9001824855804443",
+    "Pos": "Stone Alchemist - 2"
+  },
+  "10": {
+    "Type": "UpgradeUnit",
+    "Time": "5 1.318993091583252",
+    "Pos": "Stone Alchemist - 3"
+  },
+  "11": {
+    "Type": "ToggleAutoUpgrade",
+    "Time": "6 0.5937378406524658",
+    "Pos": "Cursed Immortal (Black Sun) - 1"
+  },
+  "12": {
+    "Type": "DisableAutoUpgrade",
+    "Time": "6 1.0937378406524658",
+    "Pos": "Cursed Immortal (Black Sun) - 1"
+  },
+  "13": {
+    "Type": "UpgradeUnit",
+    "Time": "7 0.6091780662536621",
+    "Pos": "Stone Alchemist - 2"
+  },
+  "14": {
+    "Type": "UpgradeUnit",
+    "Time": "7 0.9686360359191895",
+    "Pos": "Stone Alchemist - 3"
+  },
+  "15": {
+    "Type": "ToggleAutoUpgrade",
+    "Time": "7 2.710775136947632",
+    "Pos": "Cursed Immortal (Black Sun) - 1"
+  },
+  "16": {
+    "Type": "ToggleAutoUpgrade",
+    "Time": "10 0.8325052261352539",
+    "Pos": "Puppet (Telekinetic) - 1"
+  },
+  "17": {
+    "Type": "DisableAutoUpgrade",
+    "Time": "10 2.8325052261352539",
+    "Pos": "Puppet (Telekinetic) - 1"
+  },
+  "18": {
+    "Type": "ToggleAutoUpgrade",
+    "Time": "10 2.932505226135254",
+    "Pos": "Elf Mage (Unleashed) - 1"
+  },
+  "19": {
+    "Type": "DisableAutoUpgrade",
+    "Time": "12 0.1",
+    "Pos": "Elf Mage (Unleashed) - 1"
+  },
+  "20": {
+    "Unit": "Forbidden Teacher",
+    "Type": "PlaceUnit",
+    "Time": "12 0.2",
+    "Pos": "2974.36816, 1961.78052, 2880.32568, 1, 0, 0, 0, 1, 0, 0, 0, 1"
+  },
+  "21": {
+    "Type": "ToggleAutoUpgrade",
+    "Time": "12 0.3",
+    "Pos": "Forbidden Teacher - 1"
+  }
+}
