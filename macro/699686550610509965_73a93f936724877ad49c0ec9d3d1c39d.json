@@ -1,0 +1,437 @@
+{
+  "1": {
+    "Type": "PlaceUnit",
+    "Time": "0 32.027945041656494",
+    "Phantom": true,
+    "Unit": "Stone Alchemist",
+    "Pos": "2969.2002, 1961.78064, 2869.39624, -1, 0, -1.13649594e-06, 0, 1, 0, 1.13649594e-06, 0, -1"
+  },
+  "2": {
+    "Type": "PlaceUnit",
+    "Time": "0 35.12577986717224",
+    "Phantom": true,
+    "Unit": "Cursed Immortal (Black Sun)",
+    "Pos": "2971.42139, 1961.78064, 2884.21875, -1, 0, -1.13649594e-06, 0, 1, 0, 1.13649594e-06, 0, -1"
+  },
+  "3": {
+    "Unit": "Prodigy (Rage)",
+    "Type": "PlaceUnit",
+    "Time": "2 1.6005938053131104",
+    "Pos": "2965.54004, 1961.78015, 2891.87378, -1, 0, -1.13649594e-06, 0, 1, 0, 1.13649594e-06, 0, -1"
+  },
+  "4": {
+    "Type": "ChangePriority",
+    "Prio": "Boss",
+    "Time": "2 4.283928871154785",
+    "Pos": "Prodigy (Rage) - 1"
+  },
+  "5": {
+    "Type": "PlaceUnit",
+    "Time": "2 5.549358129501343",
+    "Phantom": true,
+    "Unit": "Stone Alchemist",
+    "Pos": "2967.4939, 1961.78015, 2873.93359, -1, 0, -1.13649594e-06, 0, 1, 0, 1.13649594e-06, 0, -1"
+  },
+  "6": {
+    "Type": "PlaceUnit",
+    "Time": "2 5.901159763336182",
+    "Phantom": true,
+    "Unit": "Stone Alchemist",
+    "Pos": "2965.80933, 1961.78015, 2870.09302, -1, 0, -1.13649594e-06, 0, 1, 0, 1.13649594e-06, 0, -1"
+  },
+  "7": {
+    "Unit": "Cursed Student (True Love)",
+    "Type": "PlaceUnit",
+    "Time": "3 0.983393669128418",
+    "Pos": "2965.69556, 1961.78015, 2888.76221, -1, 0, -1.13649594e-06, 0, 1, 0, 1.13649594e-06, 0, -1"
+  },
+  "8": {
+    "Type": "ChangePriority",
+    "Prio": "Boss",
+    "Time": "3 2.8479387760162354",
+    "Pos": "Cursed Student (True Love) - 1"
+  },
+  "9": {
+    "Type": "UpgradeUnit",
+    "Time": "4 0.8234717845916748",
+    "Pos": "Stone Alchemist - 2"
+  },
+  "10": {
+    "Type": "UpgradeUnit",
+    "Time": "4 1.654587984085083",
+    "Pos": "Stone Alchemist - 2"
+  },
+  "11": {
+    "Type": "UpgradeUnit",
+    "Time": "5 0.40888524055480957",
+    "Pos": "Cursed Immortal (Black Sun) - 1"
+  },
+  "12": {
+    "Type": "UpgradeUnit",
+    "Time": "5 0.7939174175262451",
+    "Pos": "Cursed Immortal (Black Sun) - 1"
+  },
+  "13": {
+    "Type": "UpgradeUnit",
+    "Time": "5 1.6297962665557861",
+    "Pos": "Stone Alchemist - 3"
+  },
+  "14": {
+    "Type": "UpgradeUnit",
+    "Time": "5 2.2551300525665283",
+    "Pos": "Stone Alchemist - 1"
+  },
+  "15": {
+    "Type": "UpgradeUnit",
+    "Time": "6 0.43996500968933105",
+    "Pos": "Stone Alchemist - 3"
+  },
+  "16": {
+    "Type": "UpgradeUnit",
+    "Time": "6 1.253455400466919",
+    "Pos": "Cursed Immortal (Black Sun) - 1"
+  },
+  "17": {
+    "Type": "UpgradeUnit",
+    "Time": "6 2.1450984477996826",
+    "Pos": "Stone Alchemist - 1"
+  },
+  "18": {
+    "Unit": "Forbidden Teacher",
+    "Type": "PlaceUnit",
+    "Time": "6 4.199803113937378",
+    "Pos": "2969.11768, 1961.78015, 2880.44922, 1.18020728e-06, 0, -1, 0, 1, 0, 1, 0, 1.18020728e-06"
+  },
+  "19": {
+    "Type": "UpgradeUnit",
+    "Time": "7 0.3668203353881836",
+    "Pos": "Cursed Immortal (Black Sun) - 1"
+  },
+  "20": {
+    "Type": "UpgradeUnit",
+    "Time": "7 0.7287623882293701",
+    "Pos": "Cursed Immortal (Black Sun) - 1"
+  },
+  "21": {
+    "Type": "UpgradeUnit",
+    "Time": "8 0.38808178901672363",
+    "Pos": "Stone Alchemist - 1"
+  },
+  "22": {
+    "Type": "UpgradeUnit",
+    "Time": "8 1.18178129196167",
+    "Pos": "Stone Alchemist - 2"
+  },
+  "23": {
+    "Type": "UpgradeUnit",
+    "Time": "8 3.0194947719573975",
+    "Pos": "Prodigy (Rage) - 1"
+  },
+  "24": {
+    "Type": "UpgradeUnit",
+    "Time": "8 3.713167428970337",
+    "Pos": "Prodigy (Rage) - 1"
+  },
+  "25": {
+    "Type": "UpgradeUnit",
+    "Time": "9 0.38177990913391113",
+    "Pos": "Prodigy (Rage) - 1"
+  },
+  "26": {
+    "Type": "UpgradeUnit",
+    "Time": "9 4.425368309020996",
+    "Pos": "Stone Alchemist - 3"
+  },
+  "27": {
+    "Type": "UpgradeUnit",
+    "Time": "9 5.3080198764801025",
+    "Pos": "Cursed Immortal (Black Sun) - 1"
+  },
+  "28": {
+    "Type": "UpgradeUnit",
+    "Time": "10 0.791050910949707",
+    "Pos": "Forbidden Teacher - 1"
+  },
+  "29": {
+    "Type": "UpgradeUnit",
+    "Time": "10 1.1157050132751465",
+    "Pos": "Forbidden Teacher - 1"
+  },
+  "30": {
+    "Type": "UpgradeUnit",
+    "Time": "10 1.4401183128356934",
+    "Pos": "Forbidden Teacher - 1"
+  },
+  "31": {
+    "Type": "UpgradeUnit",
+    "Time": "10 1.7408437728881836",
+    "Pos": "Forbidden Teacher - 1"
+  },
+  "32": {
+    "Type": "UpgradeUnit",
+    "Time": "10 2.008284330368042",
+    "Pos": "Forbidden Teacher - 1"
+  },
+  "33": {
+    "Type": "UpgradeUnit",
+    "Time": "10 5.480744361877441",
+    "Pos": "Cursed Immortal (Black Sun) - 1"
+  },
+  "34": {
+    "Type": "UpgradeUnit",
+    "Time": "11 0.5251340866088867",
+    "Pos": "Cursed Immortal (Black Sun) - 1"
+  },
+  "35": {
+    "Type": "UpgradeUnit",
+    "Time": "11 0.757462739944458",
+    "Pos": "Cursed Immortal (Black Sun) - 1"
+  },
+  "36": {
+    "Unit": "Puppet (Telekinetic)",
+    "Type": "PlaceUnit",
+    "Time": "13 0.9496142864227295",
+    "Pos": "3008.92725, 1961.78076, 3060.26831, 1.18020728e-06, 0, -1, 0, 1, 0, 1, 0, 1.18020728e-06"
+  },
+  "37": {
+    "Unit": "Cursed Student (True Love)",
+    "Type": "PlaceUnit",
+    "Time": "13 3.2767128944396973",
+    "Pos": "3011.32056, 1961.78076, 3059.69678, 1.18020728e-06, 0, -1, 0, 1, 0, 1, 0, 1.18020728e-06"
+  },
+  "38": {
+    "Unit": "Cursed Student (True Love)",
+    "Type": "PlaceUnit",
+    "Time": "13 4.808746814727783",
+    "Pos": "3006.76294, 1961.78076, 3061.20117, 1.18020728e-06, 0, -1, 0, 1, 0, 1, 0, 1.18020728e-06"
+  },
+  "39": {
+    "Type": "ChangePriority",
+    "Prio": "Boss",
+    "Time": "14 0.9886691570281982",
+    "Pos": "Puppet (Telekinetic) - 1"
+  },
+  "40": {
+    "Type": "ChangePriority",
+    "Prio": "Boss",
+    "Time": "14 2.552311658859253",
+    "Pos": "Cursed Student (True Love) - 2"
+  },
+  "41": {
+    "Type": "ChangePriority",
+    "Prio": "Boss",
+    "Time": "14 4.556406736373901",
+    "Pos": "Cursed Student (True Love) - 3"
+  },
+  "42": {
+    "Pos": "Puppet (Telekinetic) - 1",
+    "Type": "UpgradeUnit",
+    "Time": "15 4.865211248397827",
+    "Amount": 8
+  },
+  "43": {
+    "Type": "SellUnit",
+    "Time": "17 1.393556833267212",
+    "Pos": "Cursed Immortal (Black Sun) - 1"
+  },
+  "44": {
+    "Type": "SellUnit",
+    "Time": "17 2.3212978839874268",
+    "Pos": "Forbidden Teacher - 1"
+  },
+  "45": {
+    "Unit": "Cursed Immortal (Black Sun)",
+    "Type": "PlaceUnit",
+    "Time": "18 0.300961971282959",
+    "Pos": "3024.08643, 1961.7804, 3058.96045, 1.18020728e-06, 0, -1, 0, 1, 0, 1, 0, 1.18020728e-06"
+  },
+  "46": {
+    "Pos": "Cursed Immortal (Black Sun) - 2",
+    "Type": "UpgradeUnit",
+    "Time": "18 1.677227258682251",
+    "Amount": 5
+  },
+  "47": {
+    "Unit": "Forbidden Teacher",
+    "Type": "PlaceUnit",
+    "Time": "18 4.744994163513184",
+    "Pos": "3022.74194, 1961.7804, 3055.98608, 1.18020728e-06, 0, -1, 0, 1, 0, 1, 0, 1.18020728e-06"
+  },
+  "48": {
+    "Pos": "Forbidden Teacher - 2",
+    "Type": "UpgradeUnit",
+    "Time": "18 6.090729713439941",
+    "Amount": 5
+  },
+  "49": {
+    "Type": "SellUnit",
+    "Time": "19 0.4993588924407959",
+    "Pos": "Prodigy (Rage) - 1"
+  },
+  "50": {
+    "Type": "SellUnit",
+    "Time": "19 1.9946753978729248",
+    "Pos": "Cursed Student (True Love) - 1"
+  },
+  "51": {
+    "Unit": "Cursed Student (True Love)",
+    "Type": "PlaceUnit",
+    "Time": "19 3.689169406890869",
+    "Pos": "3009.4541, 1961.78076, 3062.42041, 1.18020728e-06, 0, -1, 0, 1, 0, 1, 0, 1.18020728e-06"
+  },
+  "52": {
+    "Type": "ChangePriority",
+    "Prio": "Boss",
+    "Time": "19 5.644884347915649",
+    "Pos": "Cursed Student (True Love) - 4"
+  },
+  "53": {
+    "Unit": "Prodigy (Rage)",
+    "Type": "PlaceUnit",
+    "Time": "20 4.042774677276611",
+    "Pos": "2937.77905, 1961.78076, 3036.42847, 1.18020728e-06, 0, -1, 0, 1, 0, 1, 0, 1.18020728e-06"
+  },
+  "54": {
+    "Pos": "Prodigy (Rage) - 2",
+    "Type": "UpgradeUnit",
+    "Time": "20 5.103315114974976",
+    "Amount": 7
+  },
+  "55": {
+    "Time": "20 7.9897589683532715",
+    "Type": "UseAbility",
+    "Abi": "GowtherAbility1",
+    "Pos": "Puppet (Telekinetic) - 1"
+  },
+  "56": {
+    "Type": "SellUnit",
+    "Time": "21 9.000652551651001",
+    "Pos": "Cursed Immortal (Black Sun) - 2"
+  },
+  "57": {
+    "Type": "SellUnit",
+    "Time": "21 10.006095886230469",
+    "Pos": "Forbidden Teacher - 2"
+  },
+  "58": {
+    "Unit": "Cursed Immortal (Black Sun)",
+    "Type": "PlaceUnit",
+    "Time": "22 2.880223512649536",
+    "Pos": "2941.90674, 1961.78015, 3065.05054, 1.18020728e-06, 0, -1, 0, 1, 0, 1, 0, 1.18020728e-06"
+  },
+  "59": {
+    "Pos": "Cursed Immortal (Black Sun) - 3",
+    "Type": "UpgradeUnit",
+    "Time": "22 4.098047256469727",
+    "Amount": 9
+  },
+  "60": {
+    "Unit": "Forbidden Teacher",
+    "Type": "PlaceUnit",
+    "Time": "22 5.572490692138672",
+    "Pos": "2943.9314, 1961.78076, 3060.12646, 1.18020728e-06, 0, -1, 0, 1, 0, 1, 0, 1.18020728e-06"
+  },
+  "61": {
+    "Pos": "Forbidden Teacher - 3",
+    "Type": "UpgradeUnit",
+    "Time": "22 6.82474946975708",
+    "Amount": 5
+  },
+  "62": {
+    "Type": "SellUnit",
+    "Time": "23 8.434324026107788",
+    "Pos": "Cursed Student (True Love) - 2"
+  },
+  "63": {
+    "Type": "SellUnit",
+    "Time": "23 9.041452646255493",
+    "Pos": "Puppet (Telekinetic) - 1"
+  },
+  "64": {
+    "Type": "SellUnit",
+    "Time": "23 9.666903257369995",
+    "Pos": "Cursed Student (True Love) - 3"
+  },
+  "65": {
+    "Type": "SellUnit",
+    "Time": "24 0.06756973266601562",
+    "Pos": "Cursed Student (True Love) - 4"
+  },
+  "66": {
+    "Unit": "Puppet (Telekinetic)",
+    "Type": "PlaceUnit",
+    "Time": "24 0.75",
+    "Pos": "2924.01611, 1961.78076, 3041.85693, 1.18020728e-06, 0, -1, 0, 1, 0, 1, 0, 1.18020728e-06"
+  },
+  "67": {
+    "Pos": "Puppet (Telekinetic) - 2",
+    "Type": "UpgradeUnit",
+    "Time": "24 1.373",
+    "Amount": 8
+  },
+  "68": {
+    "Type": "ChangePriority",
+    "Prio": "Boss",
+    "Time": "24 2.019",
+    "Pos": "Puppet (Telekinetic) - 2"
+  },
+  "69": {
+    "Unit": "Cursed Student (True Love)",
+    "Type": "PlaceUnit",
+    "Time": "24 2.856",
+    "Pos": "2925.11841, 1961.78076, 3039.34863, 1.18020728e-06, 0, -1, 0, 1, 0, 1, 0, 1.18020728e-06"
+  },
+  "70": {
+    "Type": "ChangePriority",
+    "Prio": "Boss",
+    "Time": "24 3.882",
+    "Pos": "Cursed Student (True Love) - 5"
+  },
+  "71": {
+    "Unit": "Cursed Student (True Love)",
+    "Type": "PlaceUnit",
+    "Time": "24 4.735",
+    "Pos": "2922.66309, 1961.78076, 3044.24585, 1.18020728e-06, 0, -1, 0, 1, 0, 1, 0, 1.18020728e-06"
+  },
+  "72": {
+    "Type": "ChangePriority",
+    "Prio": "Boss",
+    "Time": "24 5.575",
+    "Pos": "Cursed Student (True Love) - 6"
+  },
+  "73": {
+    "Unit": "Cursed Student (True Love)",
+    "Type": "PlaceUnit",
+    "Time": "24 6.744",
+    "Pos": "2937.78418, 1961.78076, 3033.41919, 1.18020728e-06, 0, -1, 0, 1, 0, 1, 0, 1.18020728e-06"
+  },
+  "74": {
+    "Type": "ChangePriority",
+    "Prio": "Last",
+    "Time": "24 8.005",
+    "Pos": "Cursed Student (True Love) - 7"
+  },
+  "75": {
+    "Pos": "Cursed Student (True Love) - 7",
+    "Type": "UpgradeUnit",
+    "Time": "24 9.761",
+    "Amount": 4
+  },
+  "76": {
+    "Time": "25 0.060987234115600586",
+    "Type": "UseAbility",
+    "Abi": "GohanAbility1",
+    "Pos": "Prodigy (Rage) - 2"
+  },
+  "77": {
+    "Type": "Response",
+    "Time": "25 1.565755844116211",
+    "Pos": "2940.89307, 1960.92004, 3059.15845, 1, 0, 0, 0, 1, 0, 0, 0, 1"
+  },
+  "78": {
+    "Time": "25 6.194718837738037",
+    "Type": "UseAbility",
+    "Abi": "GowtherAbility1",
+    "Pos": "Puppet (Telekinetic) - 2"
+  }
+}
